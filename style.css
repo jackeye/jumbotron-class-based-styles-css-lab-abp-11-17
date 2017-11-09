@@ -10,14 +10,14 @@ main {
   margin-top: 20px;
 }
 
-.jumbotron {
+div.jumbotron {
   border-radius: 5px;
   background-color: #e9ecef;
   padding: 10px;
   text-align: center;
 }
 
-.jumbotron h1 {
+h1.jumbotron  {
   font-size: 60px;
 }
 
